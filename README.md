@@ -1,7 +1,7 @@
 # peoplelinks
 
-### 1. http://www.shuang0420.com/
-### 2. http://ruder.io/
+* http://www.shuang0420.com/
+* http://ruder.io/
 
 # Labs
 ### 1. CMU lab
