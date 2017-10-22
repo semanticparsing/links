@@ -1,4 +1,4 @@
-# peoplelinks
+# Blogs
 
 * http://www.shuang0420.com/
 * http://ruder.io/
