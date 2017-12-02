@@ -9,3 +9,6 @@
 * [Word-Context Character Embeddings for Chinese Word Segmentation](http://aclweb.org/anthology/D17-1080)
   - EMNLP 2017
   - 南京大学
+* [Refining Word Embeddings for Sentiment Analysis](http://aclweb.org/anthology/D17-1057)
+  - EMNLP 2017
+  - Yuan Ze University, Taiwan
