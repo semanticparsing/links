@@ -20,3 +20,7 @@
 * [AutoExtend: Combining Word Embeddings with Semantic Resources.](http://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00294)
   - Computational Linguistics, 2017.
   - Hinrich Schütze, LMU Munich
+* [Enriching Word Vectors with Subword Information](https://research.fb.com/wp-content/uploads/2017/06/tacl.pdf?)
+  - TACL, Association for Computational Linguistics (ACL 2017)
+  - Armand Joulin, Edouard Grave, Piotr Bojanowski, [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/)
+  - fastText [Codes](https://github.com/facebookresearch/fastText)
