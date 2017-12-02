@@ -5,4 +5,7 @@
   - ACL2015
 * [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://aclweb.org/anthology/D17-1027)
   - EMNLP 2017
-  - 香港科大
+  - 香港科大
+* [Word-Context Character Embeddings for Chinese Word Segmentation](http://aclweb.org/anthology/D17-1080)
+  - EMNLP 2017
+  - 南京大学
