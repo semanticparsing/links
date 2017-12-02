@@ -3,6 +3,8 @@
   - ACL2017
 * [Non-distributional Word Vector Representations](http://www.manaalfaruqui.com/papers/acl15-nondist.pdf)
   - ACL2015
+  - cdyer@CMU
+  - linguistic vectors contain useful information orthogonal to distributional information.
 * [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://aclweb.org/anthology/D17-1027)
   - EMNLP 2017
   - 香港科大
