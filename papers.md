@@ -19,4 +19,4 @@
   - Yuan Ze University, Taiwan
 * [AutoExtend: Combining Word Embeddings with Semantic Resources.](http://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00294)
   - Computational Linguistics, 2017.
-  - Yadollah Yaghoobzadeh, LMU Munich
+  - Hinrich Schütze, LMU Munich
