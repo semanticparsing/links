@@ -1,6 +1,7 @@
 # W2V related
-* [Glyph-aware Embedding of Chinese Characters](http://aclweb.org/anthology/D17-1027)
+* [Glyph-aware Embedding of Chinese Characters](http://www.aclweb.org/anthology/W17-4109)
   - ACL2017
+  - [Codes](https://github.com/falcondai/chinese-char-lm)
 * [Learning Character-level Compositionality with Visual Features](https://arxiv.org/pdf/1704.04859.pdf)
   - ACL2017
   - Graham Neubig
