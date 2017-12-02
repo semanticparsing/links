@@ -28,3 +28,5 @@
   - TACL, Association for Computational Linguistics (ACL 2017)
   - Armand Joulin, Edouard Grave, Piotr Bojanowski, [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/)
   - fastText [Codes](https://github.com/facebookresearch/fastText)
+* [Mimicking Word Embeddings using Subword RNNs](http://aclweb.org/anthology/D17-1010)
+  - EMNLP2017
