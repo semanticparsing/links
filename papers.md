@@ -1,6 +1,8 @@
 # W2V related
 * [Glyph-aware Embedding of Chinese Characters](http://aclweb.org/anthology/D17-1027)
   - ACL2017
+* [Sub-character Neural Language Modelling in Japanese](http://www.aclweb.org/anthology/W17-4122)
+  - ACL2017, sclem2017
 * [Non-distributional Word Vector Representations](http://www.manaalfaruqui.com/papers/acl15-nondist.pdf)
   - ACL2015
   - cdyer@CMU
