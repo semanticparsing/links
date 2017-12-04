@@ -13,6 +13,9 @@
       - time token occurrence
       - small vocabulary
       - similar syntactic behaviour
+    - method
+      - token->type->rule
+      - regular expression for token to type mapping
 * [Time Expressions Recognition with Word Vectors and Neural Networks](http://drops.dagstuhl.de/opus/volltexte/2017/7925/pdf/LIPIcs-TIME-2017-12.pdf)
   - 24th International Symposium on Temporal Representation and Reasoning (TIME 2017)
   - Spanish
