@@ -6,6 +6,13 @@
 * [Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules](http://www.aclweb.org/anthology/P17-1039)
   - ACL2017
   - [Codes](https://github.com/zhongxiaoshi/syntime)
+  - Notes
+    - analyzed four datasets: TimeBank, Gigaword, WikiWars, Tweets
+    - four findings:
+      - short expressions
+      - time token occurrence
+      - small vocabulary
+      - similar syntactic behaviour
 * [Time Expressions Recognition with Word Vectors and Neural Networks](http://drops.dagstuhl.de/opus/volltexte/2017/7925/pdf/LIPIcs-TIME-2017-12.pdf)
   - 24th International Symposium on Temporal Representation and Reasoning (TIME 2017)
   - Spanish
