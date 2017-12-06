@@ -1,6 +1,6 @@
 # DOL meaning representation language
 ## Tree view of semantics
-### **Node types**
+### Node types in DOL trees
   - **Constants**: Refer to specific objects in the world. A constant can be a number, a lexical string, or an entity.
   - **Classes**: Refer to a category of entities sharing common semantic properties. For example: `location.city`, `math.number`
     - Sub-class: *math.number ⊆ math.expression*
@@ -17,3 +17,8 @@
       - Many functions can take additional *extended arguments* as their modifiers.
       - Modifier functions often take the role of extended arguments to modify noun function, verb functions or other modifier functions.
       - Are used in DOL as the semantic representation of adjectives, adverb phrases (including conjunctive adverb phrases), and prepositional phrases in NL
+### Features of DOL
+  - Strong typed
+    - Type-compatibility: The type of each child of a function node should match the corresponding argument type of the function.
+    - Open-domain type system.
+    - Useful built-in data structures like `t.list` and `nf.list`
