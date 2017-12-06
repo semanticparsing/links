@@ -2,6 +2,12 @@
 * [Glyph-aware Embedding of Chinese Characters](http://www.aclweb.org/anthology/W17-4109)
   - ACL2017
   - [Codes](https://github.com/falcondai/chinese-char-lm)
+  - Notes
+    - The distribution of Chinese characters deviate markedly from Zipf’s law, whereas Chinese words(segmented) distributed according the Zipf's law.
+    - Language model and word segmentation tasks
+    - Feed the glyph as an input to FNN, use the raw pixels(gray-scale image) of a glyph(Google’s free Noto font).
+    - CNN, Linear, ID
+    - Conclusion: **Not that usefull**
 * [Learning Character-level Compositionality with Visual Features](https://arxiv.org/pdf/1704.04859.pdf)
   - ACL2017
   - Graham Neubig
