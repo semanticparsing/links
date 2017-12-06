@@ -9,3 +9,5 @@
   - [Video](https://vimeo.com/160938278)
   - [让人工智能解数学题，可能没你想象的那么简单](http://www.sohu.com/a/127499363_133098)
 * [構建一個中文國小數學文字問題語料庫](http://www.aclweb.org/anthology/O16-1031)
+* [Semantic parsing of pre-university math problems](http://www.aclweb.org/anthology/P17-1195)
+  - ACL2017
