@@ -16,7 +16,21 @@
 * [Non-distributional Word Vector Representations](http://www.manaalfaruqui.com/papers/acl15-nondist.pdf)
   - ACL2015
   - cdyer@CMU
-  - linguistic vectors contain useful information orthogonal to distributional information.
+  - [Codes](https://github.com/mfaruqui/non-distributional)
+  - Notes
+    - linguistic vectors contain useful information orthogonal to distributional information.
+    - linguistic word vectors construction: extracting word level information from linguistic resources
+      - WordNet: `SYNSET.FILM.V.01`, `SYNSET.FILM.N.01`, `HYPO.COLLAGEFILM.N.01`, `HYPER:SHEET.N.06`
+      - Supsersenses: `SS.NOUN.ANIMAL`
+      - FrameNet: `VERB.FRAME.REGARD`, `VERB.FRAME.ROLE.EVALUEE`
+      - Emotion & Sentiment: `POL.NEG`, `EMO.DISGUST`, `EMO.FEAR`
+      - Connotation: `CON.NOUN.NEG`, `CON.ADJ.POS`, `CON.VERB.NEUT`
+      - Color: `COLOR.RED`
+      - Part of Speech Tags: `PTB.NOUN`, `PTB.VERB`
+      - Synonymy & Antonymy: `SYNO.LOVE`, `SYNO.ACCEPTABLE`, `ANTO.FAVORITISM`, `ANTO.INJUSTICE`
+    - Vector features:
+      - 172,418 in length.
+      - 99.9% sparse: 34 non-zero features out of 172418 on average.
 * [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://aclweb.org/anthology/D17-1027)
   - EMNLP 2017
   - [Codes](https://github.com/HKUST-KnowComp/JWE)
