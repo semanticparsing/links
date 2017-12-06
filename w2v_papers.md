@@ -5,7 +5,7 @@
   - Notes
     - The distribution of Chinese characters deviate markedly from Zipf’s law, whereas Chinese words(segmented) distributed according the Zipf's law.
     - Language model and word segmentation tasks
-    - Feed the glyph as an input to FNN, use the raw pixels(gray-scale image) of a glyph(Google’s free Noto font).
+    - Feed the glyph as an input to FNN, use the raw pixels(gray-scale image) of a glyph(Google Noto font).
     - CNN, Linear, ID
     - Conclusion: **Not that usefull**
 * [Learning Character-level Compositionality with Visual Features](https://arxiv.org/pdf/1704.04859.pdf)
@@ -34,7 +34,13 @@
 * [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://aclweb.org/anthology/D17-1027)
   - EMNLP 2017
   - [Codes](https://github.com/HKUST-KnowComp/JWE)
-  - 香港科大
+  - Notes
+    - Tasks: Word similarity & Word analogy
+    - OOV problem, charactor of n-grams  for English(alphabetic writing systems), but Chinese is a logosyllabic writing system
+    - Joint learning word embedding
+      - CBOW
+      - average of context word vectors, average of context character vectors, average of context subcharacter vectors to predict the target word
+      - uses the sum of these three prediction losses as the objective function
 * [Word-Context Character Embeddings for Chinese Word Segmentation](http://aclweb.org/anthology/D17-1080)
   - EMNLP 2017
   - 南京大学
