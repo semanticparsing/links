@@ -2,7 +2,7 @@
 ## Tree view of semantics
 ### Element types in DOL trees
   - **Constants**: Refer to specific objects in the world. A constant can be a number, a lexical string, or an entity.
-  - **Classes**: Refer to a category of entities sharing common semantic properties. For example: `location.city`, `math.number`
+  - **Classes**: Semantic category of entities. For example: `location.city`, `math.number`
     - Sub-class: *math.number ⊆ math.expression*
     - Template classes: classes with one or more parameters, for example: `t.list<c, m, n>`, where `c` is a class, `m` and `n` are integers.
   - **Functions**: The major way to form larger language units from smaller ones. A function is comprised of a *name*, a list of *core arguments*, and a *return type*.
@@ -19,10 +19,13 @@
       - Are used in DOL as the semantic representation of adjectives, adverb phrases (including conjunctive adverb phrases), and prepositional phrases in NL
   - **Entity Variables**: Variables are assigned to DOL nodes for indicating the co-reference of sub-trees to entities.
 ### Features of DOL
-  - Strong typed
+  - Strongly typed language
     - Type-compatibility: The type of each child of a function node should match the corresponding argument type of the function.
   - Open-domain type system.
-  - Useful built-in data structures like `t.list` and `nf.list`
+    - Thousands of types
+    - Other languages: At most 100+ in grammar level
+  - Built-in data structures
+    - like `t.list` and `nf.list`
 
 ## Semantic parsing from natural language to DOL trees
 ### By using CFG rules to map natural language sentences and phrases to DOL trees
