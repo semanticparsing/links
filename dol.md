@@ -11,4 +11,9 @@
       - Are used to represent noun phrases in natural language.
       - Pronoun functions are special zero-argument noun functions.
     - Verb functions
+      - Act as sentences or sub-sentences in DOL
+      - The most important function type?
     - Modifier functions
+      - Many functions can take additional *extended arguments* as their modifiers.
+      - Modifier functions often take the role of extended arguments to modify noun function, verb functions or other modifier functions.
+      - Are used in DOL as the semantic representation of adjectives, adverb phrases (including conjunctive adverb phrases), and prepositional phrases in NL
