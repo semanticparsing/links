@@ -20,5 +20,5 @@
 ### Features of DOL
   - Strong typed
     - Type-compatibility: The type of each child of a function node should match the corresponding argument type of the function.
-    - Open-domain type system.
-    - Useful built-in data structures like `t.list` and `nf.list`
+  - Open-domain type system.
+  - Useful built-in data structures like `t.list` and `nf.list`
