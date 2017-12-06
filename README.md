@@ -4,6 +4,7 @@
 * http://ruder.io/
 * http://www.shaoyan.se/
 * [brenocon@umass Inforation Extraction](http://brenocon.com/)
+* https://purvanshi.github.io/projects.html
 
 # Labs
 ### 1. CMU lab
