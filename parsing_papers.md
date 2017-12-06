@@ -16,3 +16,6 @@
   - EMNLP2017
   - Shuming Shi
   - seq2seq & IR
+* [Abstract meaning representation parsing using lstm recurrent neural networks](http://www.aclweb.org/anthology/P17-1043)
+  - ACL2017
+  - AMR parser
