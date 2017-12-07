@@ -62,3 +62,4 @@
   - Notes
     - post-processing applied to exsiting word embeddings, regardless of how they were trained
     - Predictive function: Word Type Character Bi-LSTM
+     <img src="https://github.com/semanticparsing/links/blob/master/images/mimick.jpg" width="300px">
