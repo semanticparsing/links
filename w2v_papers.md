@@ -54,5 +54,10 @@
   - TACL, Association for Computational Linguistics (ACL 2017)
   - Armand Joulin, Edouard Grave, Piotr Bojanowski, [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/)
   - fastText [Codes](https://github.com/facebookresearch/fastText)
+  - Notes
+    - Limitation of assigning a distinct vector to each word, no parameter sharing. large vocabulary and rare words
+    - Skipgram model, evaluated on word similarity and word analogy tasks.
+      - Each word is represented as a bag of charecter *n*-grams
+      - word vectors as the sum of these representations
 * [Mimicking Word Embeddings using Subword RNNs](http://aclweb.org/anthology/D17-1010)
   - EMNLP2017
