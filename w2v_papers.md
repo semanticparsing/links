@@ -57,4 +57,8 @@
       - Each word is represented as a bag of charecter *n*-grams
       - word vectors as the sum of these representations
 * [Mimicking Word Embeddings using Subword RNNs](http://aclweb.org/anthology/D17-1010)
-  - EMNLP2017
+  - EMNLP2017 [Codes](https://github.com/yuvalpinter/mimick) based on DyNet
+  - Given a word embedding dictionary (with vectors from, e.g. FastText or Polyglot or GloVe), Mimick trains a character-level neural net that learns to approximate the embeddings. It can then be applied to infer embeddings in the same space for words that were not available in the original set (i.e. OOVs - Out Of Vocabulary).
+  - Notes
+    - post-processing applied to exsiting word embeddings, regardless of how they were trained
+    - Predictive function: Word Type Character Bi-LSTM
