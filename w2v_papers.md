@@ -1,7 +1,6 @@
 # W2V related
 * [Glyph-aware Embedding of Chinese Characters](http://www.aclweb.org/anthology/W17-4109)
-  - ACL2017
-  - [Codes](https://github.com/falcondai/chinese-char-lm)
+  - ACL2017 [Codes](https://github.com/falcondai/chinese-char-lm)
   - Notes
     - The distribution of Chinese characters deviate markedly from Zipf’s law, whereas Chinese words(segmented) distributed according the Zipf's law.
     - Language model and word segmentation tasks
@@ -15,8 +14,7 @@
   - ACL2017, sclem2017
 * [Non-distributional Word Vector Representations](http://www.manaalfaruqui.com/papers/acl15-nondist.pdf)
   - ACL2015
-  - cdyer@CMU
-  - [Codes](https://github.com/mfaruqui/non-distributional)
+  - cdyer@CMU [Codes](https://github.com/mfaruqui/non-distributional)
   - Notes
     - linguistic vectors contain useful information orthogonal to distributional information.
     - linguistic word vectors construction: extracting word level information from linguistic resources
@@ -32,8 +30,7 @@
       - 172,418 in length.
       - 99.9% sparse: 34 non-zero features out of 172418 on average.
 * [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://aclweb.org/anthology/D17-1027)
-  - EMNLP 2017
-  - [Codes](https://github.com/HKUST-KnowComp/JWE)
+  - EMNLP2017 [Codes](https://github.com/HKUST-KnowComp/JWE)
   - Notes
     - Tasks: Word similarity & Word analogy
     - OOV problem, charactor of n-grams  for English(alphabetic writing systems), but Chinese is a logosyllabic writing system
