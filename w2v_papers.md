@@ -66,4 +66,4 @@
       - word compounding is detected (e.g., lawnmower – bookmaker, postman);
       - semantics are not learned well (as is to be expected from the lack of context in training)
 * [Polyglot: Distributed Word Representations for Multilingual NLP](http://www.aclweb.org/anthology/W13-3520)
-  - ACL2013 [Codes](https://sites.google.com/site/rmyeid/projects/polyglot)
+  - CoNLL2013 [Codes](https://sites.google.com/site/rmyeid/projects/polyglot)
