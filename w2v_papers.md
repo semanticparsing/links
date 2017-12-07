@@ -8,13 +8,11 @@
     - CNN, Linear, ID
     - Conclusion: **Not that usefull**
 * [Learning Character-level Compositionality with Visual Features](https://arxiv.org/pdf/1704.04859.pdf)
-  - ACL2017
-  - Graham Neubig
+  - ACL2017 Graham Neubig
 * [Sub-character Neural Language Modelling in Japanese](http://www.aclweb.org/anthology/W17-4122)
   - ACL2017, sclem2017
 * [Non-distributional Word Vector Representations](http://www.manaalfaruqui.com/papers/acl15-nondist.pdf)
-  - ACL2015
-  - cdyer@CMU [Codes](https://github.com/mfaruqui/non-distributional)
+  - ACL2015 cdyer@CMU [Codes](https://github.com/mfaruqui/non-distributional)
   - Notes
     - linguistic vectors contain useful information orthogonal to distributional information.
     - linguistic word vectors construction: extracting word level information from linguistic resources
@@ -27,8 +25,7 @@
       - Part of Speech Tags: `PTB.NOUN`, `PTB.VERB`
       - Synonymy & Antonymy: `SYNO.LOVE`, `SYNO.ACCEPTABLE`, `ANTO.FAVORITISM`, `ANTO.INJUSTICE`
     - Vector features:
-      - 172,418 in length.
-      - 99.9% sparse: 34 non-zero features out of 172418 on average.
+      - 172,418 in length; 99.9% sparse: 34 non-zero features out of 172418 on average.
 * [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://aclweb.org/anthology/D17-1027)
   - EMNLP2017 [Codes](https://github.com/HKUST-KnowComp/JWE)
   - Notes
@@ -39,8 +36,7 @@
       - average of context word vectors, average of context character vectors, average of context subcharacter vectors to predict the target word
       - uses the sum of these three prediction losses as the objective function
 * [Word-Context Character Embeddings for Chinese Word Segmentation](http://aclweb.org/anthology/D17-1080)
-  - EMNLP 2017
-  - 南京大学
+  - EMNLP2017 南京大学
 * [Refining Word Embeddings for Sentiment Analysis](http://aclweb.org/anthology/D17-1057)
   - EMNLP 2017
   - Yuan Ze University, Taiwan
@@ -62,4 +58,10 @@
   - Notes
     - post-processing applied to exsiting word embeddings, regardless of how they were trained
     - Predictive function: Word Type Character Bi-LSTM
-     <img src="https://github.com/semanticparsing/links/blob/master/images/mimick.jpg" width="300px">
+    - <img src="https://github.com/semanticparsing/links/blob/master/images/mimick.jpg" width="300px">
+    - Nearest-neighbor examination for the learned model
+      - word shape is learned well (acronyms, capitalizations, suf-fixes);
+      - the model shows robustness to typos (e.g., developiong, corssing);
+      - part-of-speech is learned across multiple suffixes (pesky – euphoric, ghastly);
+      - word compounding is detected (e.g., lawnmower – bookmaker, postman);
+      - semantics are not learned well (as is to be expected from the lack of context in training)
