@@ -5,6 +5,7 @@
 * http://www.shaoyan.se/
 * [brenocon@umass Inforation Extraction](http://brenocon.com/)
 * https://purvanshi.github.io/projects.html
+* http://www.incompleteideas.net/
 
 # Labs
 ### 1. CMU lab
