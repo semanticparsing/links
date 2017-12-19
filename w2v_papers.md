@@ -67,3 +67,6 @@
       - semantics are not learned well (as is to be expected from the lack of context in training)
 * [Polyglot: Distributed Word Representations for Multilingual NLP](http://www.aclweb.org/anthology/W13-3520)
   - CoNLL2013 [Codes](https://sites.google.com/site/rmyeid/projects/polyglot)
+* [Learning to Explain Non-Standard English Words and Phrases](http://www.aclweb.org/anthology/I17-2070)
+  - JCNLP2017, William Yang Wang
+  - 在这篇文章中，我们设计了一种字符级与词级别混合seq2seq模型，从大量的UrbanDictionary数据中学习并解释非正式的英语表达。这个模型可以被用来解释社交媒体上出现的新词。值得一提的是文章第一作者，本科生Ke Ni完成此项工作的时候刚刚在UCSB结束大学第一年的学习。
