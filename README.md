@@ -6,6 +6,7 @@
 * [brenocon@umass Inforation Extraction](http://brenocon.com/)
 * https://purvanshi.github.io/projects.html
 * http://www.incompleteideas.net/
+* [Peter Norvig @ Google](http://www.norvig.com/)
 
 # Labs
 ### 1. CMU lab
