@@ -20,3 +20,5 @@
   - ACL2017 [Codes](https://github.com/BillFoland/daisyluAMR)
   - AMR parser
   - [CU-NLP at SemEval-2016 Task 8](http://m-mitchell.com/NAACL-2016/SemEval/pdf/SemEval167.pdf)
+* [Mapping to Declarative Knowledge for Word Problem Solving](https://arxiv.org/pdf/1712.09391.pdf)
+  - TACL2017, [Codes](https://github.com/CogComp/arithmetic)
