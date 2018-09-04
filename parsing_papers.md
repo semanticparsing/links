@@ -22,3 +22,4 @@
   - [CU-NLP at SemEval-2016 Task 8](http://m-mitchell.com/NAACL-2016/SemEval/pdf/SemEval167.pdf)
 * [Mapping to Declarative Knowledge for Word Problem Solving](https://arxiv.org/pdf/1712.09391.pdf)
   - TACL2017, [Codes](https://github.com/CogComp/arithmetic)
+* [The Gap of Semantic Parsing: A Survey on Automatic Math Word Problem Solvers](https://arxiv.org/pdf/1808.07290.pdf)
