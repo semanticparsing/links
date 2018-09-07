@@ -7,6 +7,7 @@
 * https://purvanshi.github.io/projects.html
 * http://www.incompleteideas.net/
 * [Peter Norvig @ Google](http://www.norvig.com/)
+* https://vered1986.github.io/
 
 # Labs
 ### 1. CMU lab
