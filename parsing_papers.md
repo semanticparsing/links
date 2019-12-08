@@ -7,6 +7,7 @@
 ## Papers
 
 * [What’s Going on in Neural Constituency Parsers? An Analysis](https://dgaddy.github.io/publications/NAACL2018poster.pdf)
+* [A Minimal Span-Based Neural Constituency Parser](https://arxiv.org/pdf/1705.03919.pdf), 2017
 * [Bootstrapping incremental dialogue systems from minimal data: the generalisation power of dialogue grammars](http://aclweb.org/anthology/D17-1235)
   - EMNLP2017
   - Dynamic Grammar (Grammar template? *olami*)
